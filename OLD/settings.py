@@ -1,0 +1,14 @@
+uch_plan_sheet_name='shit.xlsx'
+uch_plan_page_name='УК4'
+uch_plan_class_row = '7'
+uch_plan_class_column_start = '4'#номер столбца с которого начинаются названия классов
+uch_plan_class_column_stop = '8'#номер конечного столбца названий классов
+uch_plan_subj_row_start = '9'
+uch_plan_subj_row_stop = '23'
+uch_plan_subj_column = '3'
+rasp_sheet_name = 'Модули 2019-2020.xlsx'
+rasp_proizv_cal_page_name = 'учебные недели'
+rasp_proizv_cal_row1='1'
+rasp_proizv_cal_row2='12'
+rasp_proizv_cal_row3='23'
+module_plan_page_name='план модулей'
